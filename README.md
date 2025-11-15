@@ -25,9 +25,9 @@
 
 | 平台 | 架构 | 状态 | 下载链接                                                                                                            |
 | :--- | :--- | :--- |:----------------------------------------------------------------------------------------------------------------|
-| **Android** | `arm64-v8a` (主流) | **推荐** | [arm64-v8a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-arm64-v8a-release.apk)     |
-| **Android** | `armeabi-v7a` (兼容) | 备用 | [armeabi-v7a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-armeabi-v7a-release.apk) |
-| **Android** | Universal (全架构) | 调试 | [Universal](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-universal-release.apk)     |
+| **Android** | `arm64-v8a` (主流) | **推荐** | [arm64-v8a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/download/v1.0.0/beacon-im-arm64-v8a-release.apk)     |
+| **Android** | `armeabi-v7a` (兼容) | 备用 | [armeabi-v7a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/download/v1.0.0/beacon-im-armeabi-v7a-release.apk) |
+| **Android** | Universal (全架构) | 调试 | [Universal](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/download/v1.0.0/beacon-im-universal-release.apk)     |
 | **iOS** | App Store | 即将推出 | [app](https://beacon-im-landing-page.vercel.app/)                                                          |
 
 -----
