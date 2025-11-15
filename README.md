@@ -2,7 +2,12 @@
 
 > ✨ **“私密、安全、无审查。这是一款基于去中心化网络的聊天 App，您的消息永远不经过任何中心服务器，真正实现端到端加密通信，让您拥有完全的数字主权。”**
 
-## [](https://www.google.com/search?q=LICENSE) [](https://github.com/BeaconFiHub/downloads/releases) [](https://github.com/BeaconFiHub/downloads) [](您的 Discord 邀请链接)
+[![GitHub License](https://img.shields.io/github/license/BeaconFiHub/beacon-im-landing-page?style=flat-square)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/BeaconFiHub/beacon-im-landing-page?style=flat-square)](https://github.com/BeaconFiHub/beacon-im-landing-page/releases)
+[![Tech Stack](https://img.shields.io/badge/Tech-React%20Native%20|%20Solidity-blue?style=flat-square)](https://github.com/BeaconFiHub/beacon-im-landing-page)
+[![Join Community](https://img.shields.io/discord/您的DiscordID?label=Discord&logo=discord&style=flat-square)](您的 Discord 邀请链接)
+
+---
 
 ## 🚀 **核心优势：去中心化通信**
 
@@ -23,7 +28,7 @@
 | **Android** | `arm64-v8a` (主流) | **推荐** | [arm64-v8a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-arm64-v8a-release.apk)     |
 | **Android** | `armeabi-v7a` (兼容) | 备用 | [armeabi-v7a](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-armeabi-v7a-release.apk) |
 | **Android** | Universal (全架构) | 调试 | [Universal](https://github.com/BeaconFiHub/beacon-im-landing-page/releases/beacon-im-universal-release.apk)     |
-| **iOS** | App Store | 即将推出 | [app](https://beacon-im-landing-page-drab.vercel.app/)                                                          |
+| **iOS** | App Store | 即将推出 | [app](https://beacon-im-landing-page.vercel.app/)                                                          |
 
 -----
 
